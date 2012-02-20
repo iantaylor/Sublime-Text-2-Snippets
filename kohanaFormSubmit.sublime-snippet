@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<?php echo form::submit('submit', ${1:text}) ?>
+]]></content>
+<tabTrigger>kfs</tabTrigger>
+<description>Kohana Form Submit</description>
+</snippet>

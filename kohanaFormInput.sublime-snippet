@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<?php echo form::input(${1:name}, null) ?>
+]]></content>
+<tabTrigger>kfi</tabTrigger>
+<description>Kohana Form Input Type = Text</description>
+</snippet>

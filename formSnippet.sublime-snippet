@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<?php echo Form::open(${1:uri}) ?>
+]]></content>
+<tabTrigger>kfo</tabTrigger>
+<description>Kohana Form Open</description>
+</snippet>

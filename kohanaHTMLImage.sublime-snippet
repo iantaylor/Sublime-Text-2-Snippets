@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<?php echo html::image(${1:link}, array('width' => ${2:width}, 'height' => ${3:height}, 'alt' => ${4:alt})) ?>
+]]></content>
+<tabTrigger>ki</tabTrigger>
+<description>Kohana HTML Image</description>
+</snippet>
